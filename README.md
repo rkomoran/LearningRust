@@ -1,3 +1,4 @@
+![rust crab](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL9Iizzd_PXCuJg4CitszBfqBaxzW0uNvCUSArO39sbXpWb7-bVY4oJgebm3toJ3j-RL6cG7txIEImFBxaYGYqr7fesUIZl8nkAmkLestTx2-Dy6S0cP_0JTR50AbDMCeb1GZ_bwll7k0/w200-h131/rust.png)
 # How To Learn Rust
 
 > This guide will follow **No Boilerplate**'s example on how to learn Rust [video](https://www.youtube.com/watch?v=2hXNd6x9sZs)
