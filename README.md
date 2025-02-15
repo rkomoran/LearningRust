@@ -1,5 +1,4 @@
-![crabbo](https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif)
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" width="830" height="200" />
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fe36cc42774743.57ee5f329fae6.gif" width="830" height="620" />
 # How To Learn Rust
 
 > This guide will follow **No Boilerplate**'s example on how to learn Rust [video](https://www.youtube.com/watch?v=2hXNd6x9sZs)
