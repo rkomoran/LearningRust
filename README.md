@@ -1,6 +1,6 @@
 # How To Learn Rust
 
-> This guide will follow **No Boilerplate**'s example on how to learn Rust
+> This guide will follow **No Boilerplate**'s example on how to learn Rust [video](https://www.youtube.com/watch?v=2hXNd6x9sZs)
 >
 > This guide lists "3 pillars of recommended syllabus" and will be shown in order below.
 >
